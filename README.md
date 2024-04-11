@@ -1,4 +1,4 @@
-## Olá sou Phelipe, estudante em Análise e Desenvolvimento de Sistemas pela FATEC ZONA LESTE e futuro Desenvolvedor Full Stack
+## Olá sou Phelipe, estudante em Análise e Desenvolvimento de Sistemas pela FATEC ZONA LESTE e Desenvolvedor Java Pleno na Alexandria Online.
 <div align="center">
   <a href="https://github.com/phesilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phesilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
